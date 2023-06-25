@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm CrawKatt</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
