@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with [TeloxBeta](https://github.com/CrawKatt/TeloxBeta)
 
-- 📝 I regularly write articles on [Rust](Rust)
+- 📝 I regularly write articles on Rust in [salamandradevs.site](salamandradevs.site)
 
 - 💬 Ask me about **Telegram Bots, Discord Bots, Rust, Teloxide**
 
-- 📫 How to reach me **t.me/CrawKatt**
+- 📫 How to reach me **[t.me/CrawKatt](t.me/CrawKatt)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
