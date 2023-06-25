@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [RyukoBot](https://github.com/CrawKatt/RyukoBot)
 
-- 🌱 I’m currently learning **Discord Bots, Telegram Bots, Diesel.rs, SurrealDB, PostgreSQL**
+- 🌱 I’m currently learning **Rust, GoLang, C#, Discord Bots, Telegram Bots, Diesel.rs, SurrealDB, PostgreSQL**
 
 - 👯 Member of Salamandra Devs [salamandradevs.site](https://github.com/SalamandraDevs/salamandradevs.site)
 
