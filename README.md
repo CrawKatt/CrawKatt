@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [TeloxBeta](https://github.com/CrawKatt/TeloxBeta)
 
-- 📝 I regularly write articles on Rust in [salamandradevs.site](salamandradevs.site)
+- 📝 I regularly write articles on Rust in [salamandradevs.site](https://salamandradevs.site)
 
 - 💬 Ask me about **Telegram Bots, Discord Bots, Rust, Teloxide**
 
