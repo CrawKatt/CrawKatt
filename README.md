@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://github.com/CrawKatt/CrawKatt/blob/3be71e254950288079362e257b10d1576cfc1dcb/profile_animate.gif" alt="css3" width="40" height="40"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm CrawKatt</h1>
