@@ -13,7 +13,7 @@
 
 - 👯 Member of Salamandra Devs [salamandradevs.site](https://github.com/SalamandraDevs/salamandradevs.site)
 
-- 🤝 I’m looking for help with [TeloxBeta](https://github.com/CrawKatt/TeloxBeta)
+- 🤝 I’m looking for help with [Plantita Ayudante](https://github.com/CrawKatt/plantita_ayudante)
 
 - 📝 I regularly write articles on Rust in [salamandradevs.site](https://salamandradevs.site)
 
