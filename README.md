@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crawkatt&label=Profile%20views&color=0e75b6&style=flat" alt="crawkatt" /> </p>
 
-- 🔭 I’m currently working on [RyukoBot](https://github.com/CrawKatt/RyukoBot)
+- 🔭 I’m currently working on [Plantita Ayudante](https://github.com/CrawKatt/plantita_ayudante)
 
 - 🌱 I’m currently learning **Rust, GoLang, C#, Discord Bots, Telegram Bots, Diesel.rs, SurrealDB, PostgreSQL**
 
