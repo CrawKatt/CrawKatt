@@ -7,19 +7,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crawkatt&label=Profile%20views&color=0e75b6&style=flat" alt="crawkatt" /> </p>
 
-- 🔭 I’m currently working on [Plantita Ayudante](https://github.com/CrawKatt/plantita_ayudante)
+- 🔭 I’m currently working on [Leafy](https://github.com/CrawKatt/plantita_ayudante) and [Meica Mod](https://github.com/CrawKatt/meica_mod/tree/1.20.1)
 
-- 🌱 I’m currently learning **Rust, GoLang, C#, Discord Bots, Telegram Bots, Diesel.rs, SurrealDB, PostgreSQL**
+- 🌱 I’m currently learning **Rust, GoLang, C#, Discord Bots, Telegram Bots, Diesel.rs, SurrealDB, PostgreSQL, Minecraft Modding and Java/Kotlin**
 
 - 👯 Member of Salamandra Devs [salamandradevs.site](https://github.com/SalamandraDevs/salamandradevs.site)
 
-- 🤝 I’m looking for help with [Plantita Ayudante](https://github.com/CrawKatt/plantita_ayudante)
+- 🤝 I’m looking for help with [Meica Mod](https://github.com/CrawKatt/meica_mod/tree/1.20.1)
 
 - 📝 I regularly write articles on Rust in [salamandradevs.site](https://salamandradevs.site)
 
 - 💬 Ask me about **Telegram Bots, Discord Bots, Rust, Teloxide**
 
-- 📫 How to reach me **[t.me/CrawKatt](https://t.me/CrawKatt)**
+- 📫 How to reach me **[crawkatt.github.io](crawkatt.github.io)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
