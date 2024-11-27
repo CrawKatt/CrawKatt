@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crawkatt&label=Profile%20views&color=0e75b6&style=flat" alt="crawkatt" /> </p>
 
-- 🔭 I’m currently working on [Leafy](https://github.com/CrawKatt/plantita_ayudante) and [Meica Mod](https://github.com/CrawKatt/meica_mod/tree/1.20.1)
+- 🔭 I’m currently working on [Leafy](https://github.com/CrawKatt/plantita_ayudante) and [Meica Mod (MINECRAFT MOD, NO MODERATOR)](https://github.com/CrawKatt/meica_mod/tree/1.20.1)
 
 - 🌱 I’m currently learning **Rust, GoLang, C#, Discord Bots, Telegram Bots, Diesel.rs, SurrealDB, PostgreSQL, Minecraft Modding and Java/Kotlin**
 
