@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Telegram Bots, Discord Bots, Rust, Teloxide**
 
-- 📫 How to reach me **[crawkatt.github.io](https://crawkatt.github.io/)**
+- 📫 How to reach me **[crawkatt.dev](https://crawkatt.dev/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
